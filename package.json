@@ -1,0 +1,30 @@
+{
+  "name": "simple_mean_stack_app",
+  "version": "1.0.0",
+  "description": "Simple mean app ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viazerd/Simple_Mean_Stack_App.git"
+  },
+  "keywords": [
+    "mean",
+    "app"
+  ],
+  "author": "Sandeep Vyas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viazerd/Simple_Mean_Stack_App/issues"
+  },
+  "homepage": "https://github.com/viazerd/Simple_Mean_Stack_App#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "mocha": "^5.0.4"
+  }
+}
