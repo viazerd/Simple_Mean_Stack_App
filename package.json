@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/viazerd/Simple_Mean_Stack_App#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.16.3"
   },
   "devDependencies": {
